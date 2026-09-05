@@ -1,2 +1,3 @@
-# paket
+# Paketler
 Tarafımca paketlenmiş yazılımların listesi
+
